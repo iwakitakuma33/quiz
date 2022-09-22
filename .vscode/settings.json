@@ -1,0 +1,16 @@
+{
+    "editor.formatOnSave": false,
+    // Enable per-language basis by scoping for Prettier
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+        "editor.formatOnSave": true
+    }
+}
